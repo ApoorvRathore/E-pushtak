@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">E-pushtak</string>
+    <string name="login_1">LogIn</string>
+    <string name="password">Enter Password</string>
+    <string name="email">Enter user id</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="new_account_signup">New account?<b>SignUp</b></string>
+    <string name="name">Name</string>
+    <string name="cpassword">Confirm Password</string>
+    <string name="register1">Register</string>
+    <string name="register">Create a new account</string>
+    <string name="already_login_signin">Already login?<b>SignIn</b></string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="recover_your_password">Recover your password</string>
+    <string name="we_will_send_otp_to_your_mobile_nu_number">We will send OTP to your mobile number</string>
+    <string name="_91">+91</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="send_otp">Send Otp</string>
+    <string name="please_enter_the_otp_sent_to_you">Please enter the otp sent to</string>
+    <string name="enter_4_digit_otp">Enter 4-digit OTP</string>
+    <string name="verify">Verify</string>
+    <string name="didn_t_get_otp_resend_otp">Didn\'t get OTP?<b>Resend OTP</b></string>
+    <string name="enter_mobile_no">Enter mobile no</string>
+    <string name="gender1">Gender:</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="profile">Profile</string>
+    <string name="favourite">Favourite</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <string name="preference_file_name">E-Pushtak</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_item">List Item</string>
+    <string name="name_of_author">Name of author</string>
+    <string name="name_of_book">Name of Book</string>
+    <string name="price">Price</string>
+    <string name="rating">rating</string>
+    <string name="username">Username</string>
+    <string name="user_id">User-id</string>
+    <string name="checkinternet">CheckInternet</string>
+    <string name="about_the_book">About the Book</string>
+    <string name="add_to_favourite">Add To Favourite</string>
+    <string name="action_sort">Sort</string>
+    <string name="loging_in">Loging-in</string>
+    <string name="creating_account">Creating Account</string>
+    <string name="phone_number">Phone number</string>
+    <string name="desrciption">Desrciption</string>
+</resources>

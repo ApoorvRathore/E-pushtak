@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313527100387",
+    "project_id": "e-pushtak",
+    "storage_bucket": "e-pushtak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313527100387:android:b48955df67f93dd88176d6",
+        "android_client_info": {
+          "package_name": "com.apoorv.e_pushtak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313527100387-8s2na1tv8441ae04nhqhq11aojbg852s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV0qs0Vl7xMxJSvw8Gl07lptqMrRzFP9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313527100387-8s2na1tv8441ae04nhqhq11aojbg852s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
